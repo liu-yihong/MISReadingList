@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><svg width="30" height="30" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7 37C7 29.2967 7 11 7 11C7 7.68629 9.68629 5 13 5H35V31C35 31 18.2326 31 13 31C9.7 31 7 33.6842 7 37Z" fill="#5d94e9" stroke="#3756b8" stroke-width="3" stroke-linejoin="round"/><path d="M35 31C35 31 14.1537 31 13 31C9.68629 31 7 33.6863 7 37C7 40.3137 9.68629 43 13 43C15.2091 43 25.8758 43 41 43V7" stroke="#3756b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M14 37H34" stroke="#3756b8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" stroke-linejoin="round" stroke-width="3" stroke="#3756b8" fill="#5d94e9" d="m7,37c0,-7.7033 0,-26 0,-26c0,-3.31371 2.68629,-6 6,-6l22,0l0,26c0,0 -16.7674,0 -22,0c-3.3,0 -6,2.6842 -6,6z"/>
+  <path id="svg_2" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#3756b8" d="m35,31c0,0 -20.8463,0 -22,0c-3.31371,0 -6,2.6863 -6,6c0,3.3137 2.68629,6 6,6c2.2091,0 12.8758,0 28,0l0,-36"/>
+  <path id="svg_3" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#3756b8" d="m14,37l20,0"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="13" id="svg_5" y="22.375" x="9.5625" stroke-width="0" stroke="#3756b8" fill="#ffffff">MIS</text>
+ </g>
+</svg>
