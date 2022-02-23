@@ -5,6 +5,6 @@
   <path id="svg_1" stroke-linejoin="round" stroke-width="3" stroke="#3756b8" fill="#5d94e9" d="m7,37c0,-7.7033 0,-26 0,-26c0,-3.31371 2.68629,-6 6,-6l22,0l0,26c0,0 -16.7674,0 -22,0c-3.3,0 -6,2.6842 -6,6z"/>
   <path id="svg_2" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#3756b8" d="m35,31c0,0 -20.8463,0 -22,0c-3.31371,0 -6,2.6863 -6,6c0,3.3137 2.68629,6 6,6c2.2091,0 12.8758,0 28,0l0,-36"/>
   <path id="svg_3" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#3756b8" d="m14,37l20,0"/>
-  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="13" id="svg_5" y="22.375" x="9.5625" stroke-width="0" stroke="#3756b8" fill="#ffffff">MIS</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Serif" font-size="13" id="svg_5" y="22.375" x="9.5625" stroke-width="0" stroke="#3756b8" fill="#ffffff">MIS</text>
  </g>
 </svg>
