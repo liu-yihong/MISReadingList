@@ -1,10 +1,23 @@
-<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 279172 309353">
+  <style>
+    @media (prefers-color-scheme: light) {
+      :root {
+        filter: none;
+      }
+    }
 
- <g>
-  <title>Layer 1</title>
-  <path id="svg_1" stroke-linejoin="round" stroke-width="3" stroke="#3756b8" fill="#5d94e9" d="m7,37c0,-7.7033 0,-26 0,-26c0,-3.31371 2.68629,-6 6,-6l22,0l0,26c0,0 -16.7674,0 -22,0c-3.3,0 -6,2.6842 -6,6z"/>
-  <path id="svg_2" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#3756b8" d="m35,31c0,0 -20.8463,0 -22,0c-3.31371,0 -6,2.6863 -6,6c0,3.3137 2.68629,6 6,6c2.2091,0 12.8758,0 28,0l0,-36"/>
-  <path id="svg_3" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" stroke="#3756b8" d="m14,37l20,0"/>
-  <text xml:space="preserve" text-anchor="start" font-family="Noto Serif" font-size="13" id="svg_5" y="22.375" x="9.5625" stroke-width="0" stroke="#3756b8" fill="#ffffff">MIS</text>
- </g>
+    @media (prefers-color-scheme: dark) {
+      :root {
+        filter: invert(100%);
+      }
+    }
+  </style>
+
+  <g fill="none" stroke="#1b262c" stroke-linejoin="round" stroke-width="22636">
+    <path d="M11317 252764V56590c0-25002 20270-45270 45272-45270h165994v196174H56590c-24900 0-45272 20253-45272 45270" fill="#3282b8"/>
+    <path d="M222583 207493H56590c-25003 0-45272 20269-45272 45271s20270 45272 45272 45272h211265V26408M64134 252764h150904" stroke-linecap="butt"/>
+  </g>
+  <g style="line-height:1.25">
+    <path d="M-1133115 1003651h-8591v-55669l-17963 37880h-5120l-17834-37880v55670h-8027v-64608h11716l17225 35970 16662-35970h11932zm40135 0h-25512v-6595h8460V945640h-8460v-6595h25513v6595h-8461v51417h8460zm61570-18440q0 3775-1778 7463-1736 3688-4903 6248-3471 2777-8114 4339-4600 1562-11108 1562-6986 0-12583-1302-5554-1301-11325-3861v-10761h602q4903 4079 11325 6290 6423 2214 12063 2214 7984 0 12410-2994 4470-2993 4470-7983 0-4296-2127-6335-2083-2040-6378-3168-3255-867-7073-1432-3775-564-8027-1430-8591-1824-12757-6206-4122-4426-4122-11498 0-8114 6856-13278 6856-5206 17400-5206 6810 0 12496 1300 5684 1303 10066 3212v10153h-607q-3690-3124-9721-5163-5987-2083-12280-2083-6898 0-11106 2864-4166 2864-4166 7376 0 4035 2083 6335 2083 2300 7333 3515 2777 607 7897 1475 5120 868 8680 1780 7200 1910 10846 5770 3645 3860 3645 10804" fill="#1b262c" aria-label="MIS" font-size="88862" style="-inkscape-font-specification:sans-serif" transform="translate( 1231821-875945)"/>
+  </g>
 </svg>
