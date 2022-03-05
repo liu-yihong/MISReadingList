@@ -22,14 +22,3 @@
   top: 10px;
   right: 10px;
 }
-
-.btn-primary {
- margin-right: 0.5rem;
- margin-top: 0.5rem;
- border-radius:.1rem;
- cursor:pointer;
- display:inline-block;
- padding:.625em 2em;
- background-color:var(--md-typeset-a-color);
- color:var(--md-primary-fg-color)
-}
