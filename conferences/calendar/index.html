@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
 //			info.jsEvent.preventDefault(); // don't let the browser navigate
 //		},
 		eventDidMount: function(info) {
-			if(info.event.end < today_event) {
+			if(info.event.start < today_event) {
 				// Change background color of row
 				info.el.style.backgroundColor = '#dcdcdc';
 				info.el.style.borderColor = '#a52a52';
