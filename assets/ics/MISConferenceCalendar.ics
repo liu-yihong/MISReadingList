@@ -1,101 +1,105 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:Yihong Liu
-BEGIN:VEVENT
-CATEGORIES:ICIS,Workshop
-DTSTAMP:20220306T224107Z
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221213T230000Z
-SUMMARY:Post-Conference Workshops - ICIS 2022
-UID:4738f427-4d07-42ea-8858-9aa8256a1da6@4738.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Conference
-DTSTAMP:20220306T224107Z
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221210T230000Z
-SUMMARY:Main Conference - ICIS 2022
-UID:a23f132c-4d72-46e3-b02f-98c85dc8e3f0@a23f.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Submission
-DTSTAMP:20220306T224107Z
-DTEND:20220225T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220224T230000Z
-SUMMARY:Submission Open - ICIS 2022
-UID:5c729744-ffe1-441a-864f-f8885dd9b525@5c72.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Notification
-DTSTAMP:20220306T224107Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220629T220000Z
-SUMMARY:Acceptance Notification - ICIS 2022
-UID:1c8f2f79-25fd-4300-9b44-9384ebfa78a3@1c8f.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Notification
-DTSTAMP:20220306T224107Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220928T220000Z
-SUMMARY:Final Acceptance Notification - ICIS 2022
-UID:5fe23d03-403b-44c4-a8c8-4068e3f748c8@5fe2.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Submission
-DTSTAMP:20220306T224107Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220504T035959Z
-SUMMARY:Submission Deadline - ICIS 2022
-UID:aea9ba5c-662d-43d2-a213-6e11995a6c62@aea9.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Doctoral Consortium
-DTSTAMP:20220306T224107Z
-DTEND:20221210T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221206T230000Z
-SUMMARY:Doctoral Consortium - ICIS 2022
-UID:b2a45483-d694-4e46-9451-665f969ace62@b2a4.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Workshop
-DTSTAMP:20220306T224107Z
-DTEND:20221211T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221209T230000Z
-SUMMARY:Pre-Conference Workshops - ICIS 2022
-UID:7addaa2f-fd00-4713-9601-913ad2f107fb@7add.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Conference
-DTSTAMP:20220306T224107Z
-DESCRIPTION:The conference theme of "Digitization for the next generation" challenges us as a community to look ahead. Although going digital is the new normal\, technological advances and fundamental problems in our societies\, such as the pandemic and climate\, change call for research that takes us to the next generation of digitization. We invite you to join us in Copenhagen for an in-person discussion on how information systems research can help us leverage opportunities for innovation\, tackling grand challenges of our societies\, and grappling with the effects of digital transformation. ICIS 2022 will bring bright minds of our community together to engage in forward thinking discussion on how to best contribute to research\, business\, and the society.
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221208T230000Z
-SUMMARY:International Conference on Information Systems (ICIS) 2022
-UID:f1aafbbe-8f96-454b-bcdb-97e9931d1d3c@f1aa.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Submission
-DTSTAMP:20220306T224107Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220906T035959Z
-SUMMARY:Final Paper Deadline - ICIS 2022
-UID:bef5fe57-a32c-422f-beee-29a0761283b7@bef5.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Yihong Liu
+BEGIN:VEVENT
+CATEGORIES:Workshop,ICIS
+DTSTAMP:20220306T231019Z
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221213T230000Z
+SUMMARY:Post-Conference Workshops - ICIS 2022
+UID:4ea2dc45-0fa8-465a-831e-9207f70babba@4ea2.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220306T231019Z
+DTEND:20220906T035959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220905T040000Z
+SUMMARY:Final Paper Deadline - ICIS 2022
+UID:067b8496-86e8-4205-8b1d-3c09c1f64cb5@067b.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Notification,ICIS
+DTSTAMP:20220306T231019Z
+DTEND:20220929T215959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220928T220000Z
+SUMMARY:Final Acceptance Notification - ICIS 2022
+UID:9b250041-1fcd-4e5c-b082-120a299adee0@9b25.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Notification,ICIS
+DTSTAMP:20220306T231019Z
+DTEND:20220630T215959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220629T220000Z
+SUMMARY:Acceptance Notification - ICIS 2022
+UID:182d3f8d-8e66-4ddf-ba51-b98ece5601d2@182d.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Workshop,ICIS
+DTSTAMP:20220306T231019Z
+DTEND:20221211T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221209T230000Z
+SUMMARY:Pre-Conference Workshops - ICIS 2022
+UID:1d8530f2-b54a-4caf-8fc7-01b24bd37978@1d85.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220306T231019Z
+DTEND:20220225T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220224T230000Z
+SUMMARY:Submission Open - ICIS 2022
+UID:3000067d-0ce2-4427-a409-7ff4da5776d7@3000.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Conference
+DTSTAMP:20220306T231019Z
+DESCRIPTION:The conference theme of "Digitization for the next generation" challenges us as a community to look ahead. Although going digital is the new normal\, technological advances and fundamental problems in our societies\, such as the pandemic and climate\, change call for research that takes us to the next generation of digitization. We invite you to join us in Copenhagen for an in-person discussion on how information systems research can help us leverage opportunities for innovation\, tackling grand challenges of our societies\, and grappling with the effects of digital transformation. ICIS 2022 will bring bright minds of our community together to engage in forward thinking discussion on how to best contribute to research\, business\, and the society.
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221208T230000Z
+SUMMARY:International Conference on Information Systems (ICIS) 2022
+UID:f6a3bcfc-47d3-42fb-9bd5-95060282cd3f@f6a3.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220306T231019Z
+DTEND:20220504T035959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220503T040000Z
+SUMMARY:Submission Deadline - ICIS 2022
+UID:53764f48-3bd2-49f0-8ebc-2e08a2568f2e@5376.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Doctoral Consortium
+DTSTAMP:20220306T231019Z
+DTEND:20221210T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221206T230000Z
+SUMMARY:Doctoral Consortium - ICIS 2022
+UID:28e08a5b-04b6-432c-ae4b-8eedea5e009f@28e0.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Conference
+DTSTAMP:20220306T231019Z
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221210T230000Z
+SUMMARY:Main Conference - ICIS 2022
+UID:add91c28-a1db-44d8-97eb-47c55d3a06c7@add9.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
 END:VCALENDAR
