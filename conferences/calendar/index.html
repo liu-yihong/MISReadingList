@@ -44,7 +44,8 @@ document.addEventListener('DOMContentLoaded', function() {
 			    theme: 'material',
 				content: '<span class="twemoji"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5760 5120"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc.--><path d="M1430 3200v-720c0-150 80-290 210-380L4370 80a430 430 0 01 560 40l540 550c90 80 120 190 120 310 0 90-20 170-70 250L3500 3970c-90 120-240 190-380 190h-730l-240 250a320 320 0 01-460 0l-500-500a320 320 0 01 0-460l240-250zm3460-2200-290-290-2150 1580 850 850 1590-2140zM230 4660l630-630 710 710-310 300c-50 60-110 80-170 80H400c-130 0-240-110-240-240v-50c0-70 30-120 70-170"/></svg> </span> ' + info.event.title + '<br> <span class="twemoji"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5120 5120"><path d="M2560 80a2480 2480 0 10 0 4960 2480 2480 0 00 0-4960zm920 3130-200 250a160 160 0 01-220 30l-670-500a400 400 0 01-150-310V1120a160 160 0 01 160-160h320a160 160 0 01 160 160v1440l580 430a160 160 0 01 20 220"/></svg> </span> ' + info.event.start.toString() + '<br> <span class="twemoji"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5120 5120"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc.--><path d="m3067 3251-1443 555a238 238 0 01-310-310l555-1443a315 315 0 01 184-184l1443-555a238 238 0 01 310 310l-555 1443a315 315 0 01-184 184zM2551 2240c-168 0-320 143-320 320s152 320 320 320a322 322 0 00 329-320c0-177-143-320-329-320zM5120 2560a2560 2560 0 11-5120 0 2560 2560 0 01 5120 0zM2560 480a2080 2080 0 10 0 4160 2080 2080 0 00 0-4160"/></svg> </span> ' + info.event.extendedProps.location,
 				allowHTML: true,
-				placement: 'bottom-start',
+				placement: 'bottom',
+				arrow: true,
 				interactive: true,
 				maxWidth: "none",
 			});
