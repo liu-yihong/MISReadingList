@@ -2,301 +2,301 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Yihong Liu
 BEGIN:VEVENT
-CATEGORIES:Submission,ICIS
-DTSTAMP:20220307T023524Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220224T230000Z
-SUMMARY:Submission Open - ICIS 2022
-UID:40147f99-a904-4502-9edd-f3446faf9313@4014.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Conference
-DTSTAMP:20220307T023524Z
-DESCRIPTION:The conference theme of "Digitization for the next generation" challenges us as a community to look ahead. Although going digital is the new normal\, technological advances and fundamental problems in our societies\, such as the pandemic and climate\, change call for research that takes us to the next generation of digitization. We invite you to join us in Copenhagen for an in-person discussion on how information systems research can help us leverage opportunities for innovation\, tackling grand challenges of our societies\, and grappling with the effects of digital transformation. ICIS 2022 will bring bright minds of our community together to engage in forward thinking discussion on how to best contribute to research\, business\, and the society.
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221208T230000Z
-SUMMARY:International Conference on Information Systems (ICIS) 2022
-UID:7d80b66f-8193-40e9-9ec8-fcbb941c3b4f@7d80.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Doctoral Consortium
-DTSTAMP:20220307T023524Z
-DTEND:20221210T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221206T230000Z
-SUMMARY:Doctoral Consortium - ICIS 2022
-UID:085204df-fb9a-4475-927d-197dbbc3b8db@0852.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CIST,Submission
-DTSTAMP:20220307T023524Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220605T035959Z
-SUMMARY:Submission Deadline - CIST 2022
-UID:9f05cfb6-65c7-4966-8ea0-524bc19e04a8@9f05.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,CSWIM
-DTSTAMP:20220307T023524Z
-DTEND:20220626T155959Z
-LOCATION:Ningbo\, China
-DTSTART:20220624T160000Z
-SUMMARY:Main Conference - CSWIM 2022
-UID:ffddbe19-9e7b-4148-b572-5f3cd2e8ffb4@ffdd.org
-URL:http://2022.cswimworkshop.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Workshop
-DTSTAMP:20220307T023524Z
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221213T230000Z
-SUMMARY:Post-Conference Workshops - ICIS 2022
-UID:b161841b-55bc-44a9-8708-3c56771000ad@b161.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,ICIS
-DTSTAMP:20220307T023524Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220504T035959Z
-SUMMARY:Submission Deadline - ICIS 2022
-UID:8eedebdf-76be-4a84-b6e0-75e11ccef455@8eed.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,CSWIM
-DTSTAMP:20220307T023524Z
-LOCATION:Ningbo\, China
-DTSTART:20220228T160000Z
-SUMMARY:Submission Open - CSWIM 2022
-UID:70a73378-1b4c-41bb-a113-88b2d186e69b@70a7.org
-URL:http://2022.cswimworkshop.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Acceptance,CHITA
-DTSTAMP:20220307T023524Z
-LOCATION:Washington\, D.C\, USA
-DTSTART:20220131T050000Z
+CATEGORIES:SCECR,Notification
+DTSTAMP:20220307T024346Z
+LOCATION:Madrid\, Spain
+DTSTART:20220329T220000Z
 SUMMARY:Acceptance Notification - SCECR 2022
-UID:6522aaf4-dc4f-4dfb-a800-77d1e5fad436@6522.org
-URL:https://www.rhsmith.umd.edu/centers/chids/chita
+UID:2d2455f9-07ae-47a4-9a64-84605dac9a45@2d24.org
+URL:https://scecr.com/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ICIS,Workshop
-DTSTAMP:20220307T023524Z
-DTEND:20221211T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221209T230000Z
-SUMMARY:Pre-Conference Workshops - ICIS 2022
-UID:7202f44d-77df-4920-9f85-6da3e5fcefde@7202.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,CSWIM
-DTSTAMP:20220307T023524Z
+CATEGORIES:CSWIM,Conference
+DTSTAMP:20220307T024346Z
 DESCRIPTION:The theme of CSWIM 2022 is "Bringing Big Data Analytics\, AI\, and Human Behavioral Research Together: A New Frontier of IS Research". Adding to the mature behavioral research on IS use\, we have witnessed good progresses made in research leveraging big data analytics and more recently\, AI-related technologies and methods. There is an opportunity to bring the different approaches of research together to gain deeper and richer insights into IS use\, design and implications. On the one hand\, big data analytics allow us to gain an objective and comprehensive understanding about relationships that exist between variables of interest\, while AI-related methods such as machine learning can enable reliable and scalable discovery of nuanced patterns and regularities through intelligent and adaptive learning. On the other hand\, behavioral research methods\, such as survey and experiment\, afford the investigation and identification of the psychological mechanisms that underlie the relationships or patterns found. Thus\, by bringing the different approaches together\, the development and formulation of novel IS theories may become more viable than before\, The objective of this conference is to thus provide a venue that facilitates the exchanges and collaborations among IS scholars from diverse areas of research interests and employing different research approaches to push forward this frontier of IS research.
 DTEND:20220626T155959Z
 LOCATION:Ningbo\, China
 DTSTART:20220624T160000Z
 SUMMARY:China Summer Workshop on Information Management (CSWIM) 2022
-UID:1ae0f5a5-a786-4e8e-85e1-7a853128da63@1ae0.org
+UID:8d0899e4-9752-45de-81ff-711a07e678d2@8d08.org
 URL:http://2022.cswimworkshop.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Notification
-DTSTAMP:20220307T023524Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220629T220000Z
-SUMMARY:Acceptance Notification - ICIS 2022
-UID:1bc47e77-b42b-4ecd-8d67-6d8d53826f37@1bc4.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CIST,Submission
-DTSTAMP:20220307T023524Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220528T040000Z
-SUMMARY:Submission Open - CIST 2022
-UID:6fce9189-1d80-4bfc-ba15-e826504b9bb0@6fce.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CIST,Notification
-DTSTAMP:20220307T023524Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220807T040000Z
-SUMMARY:Acceptance Notification - CIST 2022
-UID:e1fe4116-5f06-49a7-832b-9b55f4827664@e1fe.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CSWIM,Notification
-DTSTAMP:20220307T023524Z
-LOCATION:Ningbo\, China
-DTSTART:20220514T160000Z
-SUMMARY:Acceptance Notification - CSWIM 2022
-UID:66084a43-bf2b-43b8-b5d8-1f4614393def@6608.org
-URL:http://2022.cswimworkshop.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CIST,Conference
-DTSTAMP:20220307T023524Z
-DESCRIPTION:CIST 2022 calls for impactful ideas related to the theme "The Crossroads of Information Systems". CIST 2022 is currently planned as a hybrid conference. Attendees can participate in-person or remotely. Presenters should plan to attend the conference in person. However\, exceptions can be made for those who are unable to travel.
-DTEND:20221017T035959Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20221015T040000Z
-SUMMARY:Conference on Information Systems and Technology (CIST) 2022
-UID:a2e6874d-a91a-4ce4-a8c9-ebea695e475c@a2e6.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SCECR,Notification
-DTSTAMP:20220307T023524Z
-LOCATION:Madrid\, Spain
-DTSTART:20220329T220000Z
-SUMMARY:Acceptance Notification - SCECR 2022
-UID:aa5eee3c-f588-47e6-97f2-59c7cf4d2673@aa5e.org
-URL:https://scecr.com/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CIST,Registration
-DTSTAMP:20220307T023524Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220821T035959Z
-SUMMARY:Early Registration Deadline - CIST 2022
-UID:f2689fb5-1148-4359-85f8-67d038596048@f268.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Conference
-DTSTAMP:20220307T023524Z
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221210T230000Z
-SUMMARY:Main Conference - ICIS 2022
-UID:8524fcff-2496-4ca4-ad05-970482404db4@8524.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,CHITA
-DTSTAMP:20220307T023524Z
-LOCATION:Washington\, D.C\, USA
-DTSTART:20220118T045959Z
-SUMMARY:Submission Deadline - SCECR 2022
-UID:aa51a324-870e-4d9c-bf85-df0ac8663626@aa51.org
-URL:https://www.rhsmith.umd.edu/centers/chids/chita
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SCECR,Submission
-DTSTAMP:20220307T023524Z
-LOCATION:Madrid\, Spain
-DTSTART:20220315T225959Z
-SUMMARY:Submission Deadline - SCECR 2022
-UID:584c78e1-f886-4a58-a2d5-e14619af99be@584c.org
-URL:https://scecr.com/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SCECR,Conference
-DTSTAMP:20220307T023524Z
+DTSTAMP:20220307T024346Z
 DESCRIPTION:The workshop covers diverse domains such as e-commerce\, social media\, digital content\, finance\, and telecommunications.  Methods include econometric\, machine learning\, statistical inference\, and unstructured and Big Data techniques.  The theme this year will be related to Big Data and economic impact.
 DTEND:20220622T215959Z
 LOCATION:Madrid\, Spain
 DTSTART:20220620T220000Z
 SUMMARY:Statistical Challenges in Electronic Commerce Research (SCECR) 2022
-UID:05e60ef1-2388-4e98-a022-0f91384375bd@05e6.org
+UID:7089f6d1-6670-4039-876a-892281f92aa1@7089.org
 URL:https://scecr.com/
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:CSWIM,Submission
+DTSTAMP:20220307T024346Z
+LOCATION:Ningbo\, China
+DTSTART:20220420T155959Z
+SUMMARY:Submission Deadline - CSWIM 2022
+UID:d42683be-2d5e-47a0-88a4-aae86f450a21@d426.org
+URL:http://2022.cswimworkshop.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Registration
+DTSTAMP:20220307T024346Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220528T040000Z
+SUMMARY:Registration Open - CIST 2022
+UID:c592853c-e9c0-455e-87b8-06fef1a3ff99@c592.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CSWIM,Conference
+DTSTAMP:20220307T024346Z
+DTEND:20220626T155959Z
+LOCATION:Ningbo\, China
+DTSTART:20220624T160000Z
+SUMMARY:Main Conference - CSWIM 2022
+UID:f0ca765a-f86a-4bbf-aa1f-b9549c4f18c1@f0ca.org
+URL:http://2022.cswimworkshop.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CHITA,Acceptance
+DTSTAMP:20220307T024346Z
+LOCATION:Washington\, D.C\, USA
+DTSTART:20220131T050000Z
+SUMMARY:Acceptance Notification - CHITA 2022
+UID:6a8b09df-d60a-41e7-afaf-82f153d8e827@6a8b.org
+URL:https://www.rhsmith.umd.edu/centers/chids/chita
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CHITA,Doctoral Consortium
+DTSTAMP:20220307T024346Z
+DTEND:20220304T045959Z
+LOCATION:Washington\, D.C\, USA
+DTSTART:20220303T050000Z
+SUMMARY:Doctoral Consortium - CHITA 2022
+UID:bd2260b3-3cee-4931-ba58-f1229b25feaf@bd22.org
+URL:https://www.rhsmith.umd.edu/centers/chids/chita
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SCECR,Submission
+DTSTAMP:20220307T024346Z
+LOCATION:Madrid\, Spain
+DTSTART:20220315T225959Z
+SUMMARY:Submission Deadline - SCECR 2022
+UID:69e09f2a-63a3-47ca-a9ff-4e0adb718b64@69e0.org
+URL:https://scecr.com/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Workshop
+DTSTAMP:20220307T024346Z
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221213T230000Z
+SUMMARY:Post-Conference Workshops - ICIS 2022
+UID:6c9c3f4e-5bc3-4c51-941b-0c617ee6b1f4@6c9c.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Submission
+DTSTAMP:20220307T024346Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220528T040000Z
+SUMMARY:Submission Open - CIST 2022
+UID:556c4e22-ba48-4c13-8187-e62e05bbbc14@556c.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Notification
+DTSTAMP:20220307T024346Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220629T220000Z
+SUMMARY:Acceptance Notification - ICIS 2022
+UID:1b9e1d3a-ccab-425e-ad79-f36a9f45da64@1b9e.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:CHITA,Conference
-DTSTAMP:20220307T023524Z
+DTSTAMP:20220307T024346Z
+DTEND:20220306T045959Z
+LOCATION:Washington\, D.C\, USA
+DTSTART:20220304T050000Z
+SUMMARY:Main Conference - CHITA 2022
+UID:9bc6dd11-105a-45f4-90bb-258ad99354aa@9bc6.org
+URL:https://www.rhsmith.umd.edu/centers/chids/chita
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Conference
+DTSTAMP:20220307T024346Z
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221210T230000Z
+SUMMARY:Main Conference - ICIS 2022
+UID:fd28fcc7-25d2-4bfd-ac44-b07b46864b75@fd28.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220307T024346Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220906T035959Z
+SUMMARY:Final Paper Deadline - ICIS 2022
+UID:bb224734-a836-41f7-90f4-a84fc4624791@bb22.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SCECR,Conference
+DTSTAMP:20220307T024346Z
+DTEND:20220622T215959Z
+LOCATION:Madrid\, Spain
+DTSTART:20220620T220000Z
+SUMMARY:Main Conference - SCECR 2022
+UID:19ecc6e1-5df5-413c-8800-f0b78b326034@19ec.org
+URL:https://scecr.com/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Registration
+DTSTAMP:20220307T024346Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220821T035959Z
+SUMMARY:Early Registration Deadline - CIST 2022
+UID:11b92917-4ae6-4231-99ec-fb33c0612693@11b9.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Workshop
+DTSTAMP:20220307T024346Z
+DTEND:20221211T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221209T230000Z
+SUMMARY:Pre-Conference Workshops - ICIS 2022
+UID:31967ed4-dedf-4468-89cb-66bce0f87075@3196.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Doctoral Consortium
+DTSTAMP:20220307T024346Z
+DTEND:20221210T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221206T230000Z
+SUMMARY:Doctoral Consortium - ICIS 2022
+UID:fba8127b-33f3-469e-8542-2277ab3230a6@fba8.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Notification
+DTSTAMP:20220307T024346Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220928T220000Z
+SUMMARY:Final Acceptance Notification - ICIS 2022
+UID:b247448a-dc7c-43bc-ae4e-7a1cd552ff6f@b247.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Conference
+DTSTAMP:20220307T024346Z
+DESCRIPTION:The conference theme of "Digitization for the next generation" challenges us as a community to look ahead. Although going digital is the new normal\, technological advances and fundamental problems in our societies\, such as the pandemic and climate\, change call for research that takes us to the next generation of digitization. We invite you to join us in Copenhagen for an in-person discussion on how information systems research can help us leverage opportunities for innovation\, tackling grand challenges of our societies\, and grappling with the effects of digital transformation. ICIS 2022 will bring bright minds of our community together to engage in forward thinking discussion on how to best contribute to research\, business\, and the society.
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221208T230000Z
+SUMMARY:International Conference on Information Systems (ICIS) 2022
+UID:7693b355-852a-429e-84c6-6cdf4a3db902@7693.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Notification
+DTSTAMP:20220307T024346Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220807T040000Z
+SUMMARY:Acceptance Notification - CIST 2022
+UID:9002605b-0f6e-4608-bd00-87d186d9244d@9002.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Submission
+DTSTAMP:20220307T024346Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220605T035959Z
+SUMMARY:Submission Deadline - CIST 2022
+UID:8d1721a7-8777-43ea-ab96-90fa73b6f3b0@8d17.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CHITA,Conference
+DTSTAMP:20220307T024346Z
 DESCRIPTION:The Conference on Health IT and Analytics (previously known as the Workshop on Health IT & Economics) is an annual health IT and analytics research summit\, including a doctoral consortium that each year gathers prominent scholars from more than 40 research institutes\, and leading policy and practitioner attendees in a vibrant setting to discuss opportunities and challenges in the design\, implementation and management of health information technology and analytics. Its goal is to deepen our understanding of strategy\, policy and systems fostering health IT and analytics effective use and to stimulate new ideas with both policy and business implications.
 DTEND:20220306T045959Z
 LOCATION:Washington\, D.C\, USA
 DTSTART:20220304T050000Z
 SUMMARY:Conference on Health IT and Analytics (CHITA) 2022
-UID:c4180ada-493e-4de5-b93e-7d1ef18bf540@c418.org
+UID:b0d73d92-6c6c-4786-aca2-8cf13e58d205@b0d7.org
 URL:https://www.rhsmith.umd.edu/centers/chids/chita
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:CSWIM,Notification
+DTSTAMP:20220307T024346Z
+LOCATION:Ningbo\, China
+DTSTART:20220514T160000Z
+SUMMARY:Acceptance Notification - CSWIM 2022
+UID:7926e8e5-ac8f-4973-adfd-0a2c3df64219@7926.org
+URL:http://2022.cswimworkshop.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220307T024346Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220504T035959Z
+SUMMARY:Submission Deadline - ICIS 2022
+UID:ddfd32b1-86c5-4818-b26f-6cd7af74dfc1@ddfd.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CHITA,Submission
+DTSTAMP:20220307T024346Z
+LOCATION:Washington\, D.C\, USA
+DTSTART:20220118T045959Z
+SUMMARY:Submission Deadline - CHITA 2022
+UID:f7133ebf-e60e-4cac-a0ee-e2a7d1418e5c@f713.org
+URL:https://www.rhsmith.umd.edu/centers/chids/chita
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CSWIM,Submission
+DTSTAMP:20220307T024346Z
+LOCATION:Ningbo\, China
+DTSTART:20220228T160000Z
+SUMMARY:Submission Open - CSWIM 2022
+UID:24b1d16e-43d2-4854-9dfb-f24fba7f1dbd@24b1.org
+URL:http://2022.cswimworkshop.org/
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:CIST,Conference
-DTSTAMP:20220307T023524Z
+DTSTAMP:20220307T024346Z
+DESCRIPTION:CIST 2022 calls for impactful ideas related to the theme "The Crossroads of Information Systems". CIST 2022 is currently planned as a hybrid conference. Attendees can participate in-person or remotely. Presenters should plan to attend the conference in person. However\, exceptions can be made for those who are unable to travel.
+DTEND:20221017T035959Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20221015T040000Z
+SUMMARY:Conference on Information Systems and Technology (CIST) 2022
+UID:8eade1a1-281c-4cf9-992f-474f0a750bef@8ead.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Conference
+DTSTAMP:20220307T024346Z
 DTEND:20221017T035959Z
 LOCATION:Indianapolis\, Indiana\, USA
 DTSTART:20221015T040000Z
 SUMMARY:Main Conference - CIST 2022
-UID:c8a9141f-c185-43ff-a98c-abb365760807@c8a9.org
+UID:47e21ea7-1a8f-4553-be12-a00d93dc1dc0@47e2.org
 URL:https://sites.google.com/view/cist2022/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Submission,ICIS
-DTSTAMP:20220307T023524Z
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220307T024346Z
 LOCATION:Copenhagen\, Denmark
-DTSTART:20220906T035959Z
-SUMMARY:Final Paper Deadline - ICIS 2022
-UID:0811e751-8d2e-4e17-b249-1dc9c0b3a178@0811.org
+DTSTART:20220224T230000Z
+SUMMARY:Submission Open - ICIS 2022
+UID:bac30453-3bc1-45da-b4b5-91b7203b740d@bac3.org
 URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Doctoral Consortium,CHITA
-DTSTAMP:20220307T023524Z
-DTEND:20220304T045959Z
-LOCATION:Washington\, D.C\, USA
-DTSTART:20220303T050000Z
-SUMMARY:Doctoral Consortium - SCECR 2022
-UID:23bd8661-8be7-4a64-bcdb-c55483573c72@23bd.org
-URL:https://www.rhsmith.umd.edu/centers/chids/chita
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CIST,Registration
-DTSTAMP:20220307T023524Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220528T040000Z
-SUMMARY:Registration Open - CIST 2022
-UID:eab6ec69-b184-4cbc-acc9-5eb7e862cb64@eab6.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Notification
-DTSTAMP:20220307T023524Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220928T220000Z
-SUMMARY:Final Acceptance Notification - ICIS 2022
-UID:6e05e7d8-4f3e-4d2f-abd7-3b5b029d8d03@6e05.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,CSWIM
-DTSTAMP:20220307T023524Z
-LOCATION:Ningbo\, China
-DTSTART:20220420T155959Z
-SUMMARY:Submission Deadline - CSWIM 2022
-UID:879664ac-7a8a-45bd-a9e4-a500da1c737f@8796.org
-URL:http://2022.cswimworkshop.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CHITA,Conference
-DTSTAMP:20220307T023524Z
-DTEND:20220306T045959Z
-LOCATION:Washington\, D.C\, USA
-DTSTART:20220304T050000Z
-SUMMARY:Main Conference - SCECR 2022
-UID:78b336d5-19c0-410a-86d2-9332a4a2c3b5@78b3.org
-URL:https://www.rhsmith.umd.edu/centers/chids/chita
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SCECR,Conference
-DTSTAMP:20220307T023524Z
-DTEND:20220622T215959Z
-LOCATION:Madrid\, Spain
-DTSTART:20220620T220000Z
-SUMMARY:Main Conference - SCECR 2022
-UID:9d37ed81-5bf4-4bef-856b-5bde614db5de@9d37.org
-URL:https://scecr.com/
 END:VEVENT
 END:VCALENDAR
