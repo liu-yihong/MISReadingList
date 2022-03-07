@@ -6,21 +6,21 @@ PRODID:Yihong Liu
 
 BEGIN:VEVENT
 
-CATEGORIES:ICIS,Conference
+CATEGORIES:Conference,ICIS
 
-DTSTAMP:20220306T165724Z
+DTSTAMP:20220306T203030Z
 
 DESCRIPTION:The conference theme of "Digitization for the next generation" challenges us as a community to look ahead. Although going digital is the new normal\, technological advances and fundamental problems in our societies\, such as the pandemic and climate\, change call for research that takes us to the next generation of digitization. We invite you to join us in Copenhagen for an in-person discussion on how information systems research can help us leverage opportunities for innovation\, tackling grand challenges of our societies\, and grappling with the effects of digital transformation. ICIS 2022 will bring bright minds of our community together to engage in forward thinking discussion on how to best contribute to research\, business\, and the society.
 
-DTEND:20220307T040000Z
+DTEND:20221215T055959Z
 
 LOCATION:Copenhagen\, Denmark
 
-DTSTART:20220307T040000Z
+DTSTART:20221209T060000Z
 
 SUMMARY:International Conference on Information Systems (ICIS)
 
-UID:98b571d2-57fa-45b9-8dd1-acd5231bb7bd@98b5.org
+UID:844fd9c3-999b-4db0-8d18-c35e21e711f6@844f.org
 
 URL:https://icis2022.aisconferences.org/
 
