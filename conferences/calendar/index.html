@@ -7,12 +7,17 @@ document.addEventListener('DOMContentLoaded', function() {
 		displayEventTime: true,
 		navLinks: true,
 		initialDate: today_event.toISOString().split('T')[0], // initial date is today
-		initialView: 'dayGridMonth',
+		initialView: 'listMonth',
 		// buttonIcons: false,
 		headerToolbar: {
 			left: 'prev,next,today',
 			center: 'title',
-			right: 'listYear,dayGridMonth'
+			right: 'listMonth,listYear'
+		},
+		buttonText: {today:    'This Month'},
+		views: {
+		    listYear: { buttonText: 'Year' },
+		    listMonth: { buttonText: 'Month' }
 		},
 		footerToolbar: false,
 		weekNumbers: true,
@@ -23,10 +28,13 @@ document.addEventListener('DOMContentLoaded', function() {
 				document.getElementById('script-warning').style.display = 'block';
 			}
 		},
+		eventColor: '#3788d8',
+		eventBackgroundColor: '#3788d8',
 //		eventClick: function(info) {
 //			info.jsEvent.preventDefault(); // don't let the browser navigate
 //		},
 		eventDidMount: function(info) {
+//		    console.log(info.event);
 //			if(info.event.start.getTime() <= today_event.getTime()) {
 //				// Change background color of row
 //				info.el.style.backgroundColor = '#dcdcdc';
@@ -43,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
 //			console.log(info.event.extendedProps);
 		},
 		handleWindowResize: true,
-		progressiveEventRendering: true,
+//		progressiveEventRendering: true,
 		loading: function(bool) {
 			document.getElementById('loading').style.display = bool ? 'block' : 'none';
 		}
