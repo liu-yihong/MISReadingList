@@ -4,578 +4,606 @@ X-WR-CALNAME:MIS Conference Calendar
 X-WR-CALDESC:Conference Events of Management Information Systems
 X-PUBLISHED-TTL:PT24H
 VERSION:2.0
-PRODID:Yihong Liu
+PRODID:Yihong Liu Yihong.Liu@UTDallas.edu
 BEGIN:VEVENT
-CATEGORIES:ICIS,Notification
-DTSTAMP:20220313T121557Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220928T220000Z
-SUMMARY:Final Acceptance Notification - ICIS 2022
-UID:115ce270-f074-4385-a70f-31e9eadbaf7e@115c.org
-URL:https://icis2022.aisconferences.org/
+CATEGORIES:Acceptance,CHITA
+DTSTAMP:20220318T004527Z
+LOCATION:Washington\, D.C\, USA
+DTSTART:20220131T050000Z
+SUMMARY:Acceptance Notification - CHITA 2022
+UID:ac36684a-1920-4f33-9dad-a9176a3da424@ac36.org
+URL:https://www.rhsmith.umd.edu/centers/chids/chita
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Submission,CIST
-DTSTAMP:20220313T121557Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220528T040000Z
-SUMMARY:Submission Open - CIST 2022
-UID:9d67aff1-73bb-4266-8878-da76e69e94c1@9d67.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Registration,POMS
-DTSTAMP:20220313T121557Z
-LOCATION:Orlando\, Florida\, USA
-DTSTART:20220323T045959Z
-SUMMARY:Speaker Registration Deadline - POMS 2022
-UID:fe3e138a-cd30-4b14-b2c1-f48caeb90fa5@fe3e.org
-URL:https://pomsmeetings.org/conf-2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,ICIS
-DTSTAMP:20220313T121557Z
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221210T230000Z
-SUMMARY:Main Conference - ICIS 2022
-UID:d15551f7-ad81-44c8-b85b-2408b4ad6d7b@d155.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,CIST
-DTSTAMP:20220313T121557Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220605T035959Z
-SUMMARY:Submission Deadline - CIST 2022
-UID:d30670a8-3fb7-413e-8347-75cefa27cfae@d306.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Notification,WISE
-DTSTAMP:20220313T121557Z
+CATEGORIES:WITS,Conference
+DTSTAMP:20220318T004527Z
+DTEND:20211218T055959Z
 LOCATION:Austin\, Texas\, USA
-DTSTART:20210923T050000Z
-SUMMARY:Acceptance Notification - WISE 2021
-UID:6a62a620-699f-4a8f-a6fc-26b8e23a4cee@6a62.org
-URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,WITS
-DTSTAMP:20220313T121557Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211009T045959Z
-SUMMARY:Dissertation Proposal Deadline - WITS 2021
-UID:f678789a-d0c6-40e7-8750-9d7353ca4509@f678.org
+DTSTART:20211215T060000Z
+SUMMARY:Main Conference - WITS 2022
+UID:f19710b7-fbc3-4ca4-af42-5e10f36e8de7@f197.org
 URL:https://witsconf.org/wits2021-call-for-papers/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Notification,HICSS
-DTSTAMP:20220313T121557Z
-LOCATION:Lahaina\, Hawaii
-DTSTART:20220817T100000Z
-SUMMARY:Acceptance Notification - HICSS 2022
-UID:2613e007-4549-419d-95cc-9a730e66e56d@2613.org
-URL:https://hicss.hawaii.edu/
+CATEGORIES:CIST,Notification
+DTSTAMP:20220318T004527Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220807T040000Z
+SUMMARY:Acceptance Notification - CIST 2022
+UID:9cf7cb56-ac74-421f-a87f-691ffc8856a3@9cf7.org
+URL:https://sites.google.com/view/cist2022/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Conference,WISE
-DTSTAMP:20220313T121557Z
-DESCRIPTION:WISE is the premier academic research forum for the discussion of information systems issues through the lens of economics. We expect researchers at WISE 2021 to bring forth cutting-edge research that studies how IT\, in all its forms\, addresses important business and societal questions. Modern IT-enabled phenomena have wide ranging impacts for consumers\, firms\, industries\, and markets\, making this a fascinating time to be an economics of IS researcher.\nEvery aspect of life is now guided by artificial intelligence. In parallel\, many people now trust platforms and algorithms more than their own governments and civic society. Given the ubiquity and sheer preponderance of algorithmic decision making that permeates every aspect of our lives\, we need a better understanding of the role of equity and bias-sensitive design of information systems. While there is considerable inquiry into the role bias engendered by algorithms\, this workshop actively seeks to promote research that not only illuminates the sources of algorithmic discrimination\, but also organization design and incentive systems can overcome the sources of such biases.\nPresentations at WISE address important business and societal questions with a focus on information systems. WISE welcomes new research related to the broad area of information systems\, including novel applications of machine learning and artificial intelligence\, that are supported by economic theories and methods.
-DTEND:20211218T055959Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211216T060000Z
-SUMMARY:Workshop on Information Systems and Economics (WISE) 2021
-UID:5fc7d715-725f-4e9e-affb-5e692d45b274@5fc7.org
-URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SCECR,Conference
-DTSTAMP:20220313T121557Z
-DTEND:20220622T215959Z
-LOCATION:Madrid\, Spain
-DTSTART:20220620T220000Z
-SUMMARY:Main Conference - SCECR 2022
-UID:8d134ba5-09c8-4cbf-9739-525f57215395@8d13.org
-URL:https://scecr.com/
+CATEGORIES:Registration,TEIS
+DTSTAMP:20220318T004527Z
+LOCATION:San Francisco\, California\, USA
+DTSTART:20220318T070000Z
+SUMMARY:Registration Open - TEIS 2022
+UID:9b7e9b9a-34c4-43fd-9ba2-365a6b90fe7a@9b7e.org
+URL:http://www.teis-workshop.org/index.php
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:CSWIM,Notification
-DTSTAMP:20220313T121557Z
+DTSTAMP:20220318T004527Z
 LOCATION:Ningbo\, China
 DTSTART:20220514T160000Z
 SUMMARY:Acceptance Notification - CSWIM 2022
-UID:f532eae0-7ba5-4555-b39a-504b1e6da2cc@f532.org
+UID:ec38e82c-bac1-4de9-83ad-a6f89c4b1a87@ec38.org
 URL:http://2022.cswimworkshop.org/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Submission,WITS
-DTSTAMP:20220313T121557Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20210922T045959Z
-SUMMARY:Demo/Prototype/Poster/Teaching Innovation Submission Deadline - WITS 2021
-UID:fcab115b-0e8b-4253-a9fc-1fc15b1b69af@fcab.org
-URL:https://witsconf.org/wits2021-call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,POMS
-DTSTAMP:20220313T121557Z
-LOCATION:Orlando\, Florida\, USA
-DTSTART:20211216T045959Z
-SUMMARY:Submission Deadline - POMS 2022
-UID:37d70ca5-e90e-4de7-9cc3-9e5bc2c1dd03@37d7.org
-URL:https://pomsmeetings.org/conf-2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Registration,CIST
-DTSTAMP:20220313T121557Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220528T040000Z
-SUMMARY:Registration Open - CIST 2022
-UID:08d239c2-f191-4926-8e83-c1b19216b221@08d2.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,POMS
-DTSTAMP:20220313T121557Z
-LOCATION:Orlando\, Florida\, USA
-DTSTART:20211015T050000Z
-SUMMARY:Submission Open - POMS 2022
-UID:8ad2c138-fdab-4e90-b595-765fb5e49045@8ad2.org
-URL:https://pomsmeetings.org/conf-2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,HICSS
-DTSTAMP:20220313T121557Z
+CATEGORIES:HICSS,Submission
+DTSTAMP:20220318T004527Z
 LOCATION:Lahaina\, Hawaii
 DTSTART:20220616T095959Z
 SUMMARY:Submission Deadline - HICSS 2022
-UID:0f9688aa-1a02-4628-b3bd-0b141d7dc4ef@0f96.org
+UID:e88cd519-c484-4745-b4bf-90041b97cbd1@e88c.org
 URL:https://hicss.hawaii.edu/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Submission,WITS
-DTSTAMP:20220313T121557Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211126T055959Z
-SUMMARY:Final Copy Deadline - WITS 2021
-UID:25f28b41-b124-4d95-a264-5d028d220125@25f2.org
-URL:https://witsconf.org/wits2021-call-for-papers/
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220224T230000Z
+SUMMARY:Submission Open - ICIS 2022
+UID:3da0d25a-3f9b-46c3-8f1e-02b4b24c02f5@3da0.org
+URL:https://icis2022.aisconferences.org/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Registration,POMS
-DTSTAMP:20220313T121557Z
-LOCATION:Orlando\, Florida\, USA
-DTSTART:20220201T050000Z
-SUMMARY:Registration Open - POMS 2022
-UID:92178ee2-ee84-4f12-8bee-e49be3c3fae2@9217.org
-URL:https://pomsmeetings.org/conf-2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,WISE
-DTSTAMP:20220313T121557Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20210824T045959Z
-SUMMARY:Submission Deadline - WISE 2021
-UID:2250fe6d-6efc-4349-a09d-e9efebf28aff@2250.org
-URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,CIST
-DTSTAMP:20220313T121557Z
+CATEGORIES:CIST,Conference
+DTSTAMP:20220318T004527Z
 DTEND:20221017T035959Z
 LOCATION:Indianapolis\, Indiana\, USA
 DTSTART:20221015T040000Z
 SUMMARY:Main Conference - CIST 2022
-UID:9ce05658-d039-4d56-b165-0b6c7b76ab81@9ce0.org
+UID:3c66fbc5-617b-4cd6-9c4d-8330fa08afb4@3c66.org
 URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Registration,WISE
-DTSTAMP:20220313T121557Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211002T045959Z
-SUMMARY:Early Registration Deadline - WISE 2021
-UID:ccf51b3a-d946-4b97-baa4-afd4493fe03a@ccf5.org
-URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,HICSS
-DTSTAMP:20220313T121557Z
-LOCATION:Lahaina\, Hawaii
-DTSTART:20220905T095959Z
-SUMMARY:Revised Manuscript Submission Deadline - HICSS 2022
-UID:8fccf62e-726a-4147-824d-781dc67d9789@8fcc.org
-URL:https://hicss.hawaii.edu/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,HICSS
-DTSTAMP:20220313T121557Z
-LOCATION:Lahaina\, Hawaii
-DTSTART:20220415T100000Z
-SUMMARY:Submission Open - HICSS 2022
-UID:9f61f2df-48db-4560-afcf-4dae47665aa2@9f61.org
-URL:https://hicss.hawaii.edu/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,HICSS
-DTSTAMP:20220313T121557Z
-LOCATION:Lahaina\, Hawaii
-DTSTART:20220923T095959Z
-SUMMARY:Publication Manuscript Submission Deadline - HICSS 2022
-UID:973f6d0a-df1a-4ad6-8f2b-4568e3b746a5@973f.org
-URL:https://hicss.hawaii.edu/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CHITA,Doctoral Consortium
-DTSTAMP:20220313T121557Z
-DTEND:20220304T045959Z
-LOCATION:Washington\, D.C\, USA
-DTSTART:20220303T050000Z
-SUMMARY:Doctoral Consortium - CHITA 2022
-UID:ea3f720b-5ae6-4063-bfce-51ee1b239d78@ea3f.org
-URL:https://www.rhsmith.umd.edu/centers/chids/chita
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Registration,HICSS
-DTSTAMP:20220313T121557Z
-LOCATION:Lahaina\, Hawaii
-DTSTART:20221002T095959Z
-SUMMARY:Registration Deadline - HICSS 2022
-UID:69f5f9b0-9b36-4d21-91ea-99cd0f606c30@69f5.org
-URL:https://hicss.hawaii.edu/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CHITA,Acceptance
-DTSTAMP:20220313T121557Z
-LOCATION:Washington\, D.C\, USA
-DTSTART:20220131T050000Z
-SUMMARY:Acceptance Notification - CHITA 2022
-UID:d472abca-38f2-414b-b99c-b3bc482aa156@d472.org
-URL:https://www.rhsmith.umd.edu/centers/chids/chita
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CHITA,Conference
-DTSTAMP:20220313T121557Z
-DTEND:20220306T045959Z
-LOCATION:Washington\, D.C\, USA
-DTSTART:20220304T050000Z
-SUMMARY:Main Conference - CHITA 2022
-UID:1105dec0-6b59-4707-8023-700cafabd15e@1105.org
-URL:https://www.rhsmith.umd.edu/centers/chids/chita
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:TEIS,Conference
-DTSTAMP:20220313T121557Z
-DESCRIPTION:The TEIS workshop is designed to provide a community for researchers who use analytical modeling techniques in the area of economics of information systems. Although a number of workshops and conferences accept research based on analytical models\, these tend to be diffused with inadequate time for presentation\, discussion and Q&A. TEIS workshop complements such venues by providing a focused and intense environment for interaction among researchers to assist in the development of the field and help advance shared understanding about various aspects of modeling research. TEIS workshops have a single track with one hour per paper so everyone can participate substantively in the discussion.
-DTEND:20220516T065959Z
-LOCATION:San Francisco\, California\, USA
-DTSTART:20220513T070000Z
-SUMMARY:Theory in Economics of Information Systems (TEIS) 2022
-UID:ee9c83e5-1138-4c6a-98db-f5a08ffb4e29@ee9c.org
-URL:http://www.teis-workshop.org/index.php
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,WITS
-DTSTAMP:20220313T121557Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20210920T045959Z
-SUMMARY:Paper Submission Deadline - WITS 2021
-UID:027a8d9d-88d4-4a64-ba84-b37d2100bff0@027a.org
-URL:https://witsconf.org/wits2021-call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,POMS
-DTSTAMP:20220313T121557Z
-DTEND:20230627T045959Z
-LOCATION:Orlando\, Florida\, USA
-DTSTART:20230625T050000Z
-SUMMARY:Main Conference - POMS 2022
-UID:16494702-9dc8-4888-9343-eb91c05c9ebb@1649.org
-URL:https://pomsmeetings.org/conf-2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Notification,WITS
-DTSTAMP:20220313T121557Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211024T050000Z
-SUMMARY:Acceptance Notification - WITS 2021
-UID:47377a48-98ca-4735-b137-34a54f799486@4737.org
-URL:https://witsconf.org/wits2021-call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,ICIS
-DTSTAMP:20220313T121557Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220224T230000Z
-SUMMARY:Submission Open - ICIS 2022
-UID:1923f111-3573-4d93-8697-82daa80ea7b6@1923.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,WISE
-DTSTAMP:20220313T121557Z
-DTEND:20211218T055959Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211216T060000Z
-SUMMARY:Main Conference - WISE 2022
-UID:6b78e15e-85f6-4616-8510-1a9385cc5e8d@6b78.org
-URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,SCECR
-DTSTAMP:20220313T121557Z
-LOCATION:Madrid\, Spain
-DTSTART:20220315T225959Z
-SUMMARY:Submission Deadline - SCECR 2022
-UID:7f5f4e11-95c4-452a-907c-bc725e27ea75@7f5f.org
-URL:https://scecr.com/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,CIST
-DTSTAMP:20220313T121557Z
-DESCRIPTION:CIST 2022 calls for impactful ideas related to the theme "The Crossroads of Information Systems". CIST 2022 is currently planned as a hybrid conference. Attendees can participate in-person or remotely. Presenters should plan to attend the conference in person. However\, exceptions can be made for those who are unable to travel.
-DTEND:20221017T035959Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20221015T040000Z
-SUMMARY:Conference on Information Systems and Technology (CIST) 2022
-UID:28d102df-71e6-4ba4-87de-caf88843408d@28d1.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CSWIM,Conference
-DTSTAMP:20220313T121557Z
-DTEND:20220626T155959Z
-LOCATION:Ningbo\, China
-DTSTART:20220624T160000Z
-SUMMARY:Main Conference - CSWIM 2022
-UID:66752653-b257-4210-b9f1-27146efc3e42@6675.org
-URL:http://2022.cswimworkshop.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,ICIS
-DTSTAMP:20220313T121557Z
-DESCRIPTION:The conference theme of "Digitization for the next generation" challenges us as a community to look ahead. Although going digital is the new normal\, technological advances and fundamental problems in our societies\, such as the pandemic and climate\, change call for research that takes us to the next generation of digitization. We invite you to join us in Copenhagen for an in-person discussion on how information systems research can help us leverage opportunities for innovation\, tackling grand challenges of our societies\, and grappling with the effects of digital transformation. ICIS 2022 will bring bright minds of our community together to engage in forward thinking discussion on how to best contribute to research\, business\, and the society.
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221208T230000Z
-SUMMARY:International Conference on Information Systems (ICIS) 2022
-UID:cdf8d441-c8e9-42d4-a7af-affa007aae53@cdf8.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Notification,POMS
-DTSTAMP:20220313T121557Z
-LOCATION:Orlando\, Florida\, USA
-DTSTART:20220201T050000Z
-SUMMARY:Acceptance Notification - POMS 2022
-UID:f849d09d-f1bc-449d-a6d1-c773e60fe8de@f849.org
-URL:https://pomsmeetings.org/conf-2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:CHITA,Conference
-DTSTAMP:20220313T121557Z
-DESCRIPTION:The Conference on Health IT and Analytics (previously known as the Workshop on Health IT & Economics) is an annual health IT and analytics research summit\, including a doctoral consortium that each year gathers prominent scholars from more than 40 research institutes\, and leading policy and practitioner attendees in a vibrant setting to discuss opportunities and challenges in the design\, implementation and management of health information technology and analytics. Its goal is to deepen our understanding of strategy\, policy and systems fostering health IT and analytics effective use and to stimulate new ideas with both policy and business implications.
-DTEND:20220306T045959Z
-LOCATION:Washington\, D.C\, USA
-DTSTART:20220304T050000Z
-SUMMARY:Conference on Health IT and Analytics (CHITA) 2022
-UID:abba05ae-f7bb-463e-8315-c13a1dff75e5@abba.org
-URL:https://www.rhsmith.umd.edu/centers/chids/chita
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,CSWIM
-DTSTAMP:20220313T121557Z
-LOCATION:Ningbo\, China
-DTSTART:20220228T160000Z
-SUMMARY:Submission Open - CSWIM 2022
-UID:cd3453a4-7b1c-4998-a619-ee04ea82a856@cd34.org
-URL:http://2022.cswimworkshop.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,CSWIM
-DTSTAMP:20220313T121557Z
-LOCATION:Ningbo\, China
-DTSTART:20220420T155959Z
-SUMMARY:Submission Deadline - CSWIM 2022
-UID:e3dbb7a5-00f3-4dbe-9964-fdb4a2948348@e3db.org
-URL:http://2022.cswimworkshop.org/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Submission,CHITA
-DTSTAMP:20220313T121557Z
+DTSTAMP:20220318T004527Z
 LOCATION:Washington\, D.C\, USA
 DTSTART:20220118T045959Z
 SUMMARY:Submission Deadline - CHITA 2022
-UID:9f73b851-c528-44e2-b088-7d94d9c95f98@9f73.org
+UID:d2d4f325-185d-4c77-a0a1-2c5e9494cb18@d2d4.org
 URL:https://www.rhsmith.umd.edu/centers/chids/chita
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Notification,CIST
-DTSTAMP:20220313T121557Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220807T040000Z
-SUMMARY:Acceptance Notification - CIST 2022
-UID:156204a9-ef43-43ca-b496-3dd093539ec7@1562.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Workshop,ICIS
-DTSTAMP:20220313T121557Z
-DTEND:20221211T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221209T230000Z
-SUMMARY:Pre-Conference Workshops - ICIS 2022
-UID:19f7c476-482d-4af4-a3a4-133845848bfa@19f7.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Registration,CIST
-DTSTAMP:20220313T121557Z
-LOCATION:Indianapolis\, Indiana\, USA
-DTSTART:20220821T035959Z
-SUMMARY:Early Registration Deadline - CIST 2022
-UID:e85468f7-a14b-4a86-969d-a71f633a2b35@e854.org
-URL:https://sites.google.com/view/cist2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,HICSS
-DTSTAMP:20220313T121557Z
-DTEND:20230107T095959Z
-LOCATION:Lahaina\, Hawaii
-DTSTART:20230103T100000Z
-SUMMARY:Main Conference - HICSS 2022
-UID:fc798892-fc1a-4782-b527-a468fc459cfe@fc79.org
-URL:https://hicss.hawaii.edu/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Workshop,ICIS
-DTSTAMP:20220313T121557Z
-DTEND:20221214T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221213T230000Z
-SUMMARY:Post-Conference Workshops - ICIS 2022
-UID:6766ad19-abe0-4e23-b2b4-a9afc6c83cee@6766.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Registration,WITS
-DTSTAMP:20220313T121557Z
-DTEND:20211218T055959Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211216T060000Z
-SUMMARY:Early Registration Deadline - WITS 2021
-UID:ade188c4-92fb-472d-84cd-e5d8e2e1ef79@ade1.org
-URL:https://witsconf.org/wits2021-call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Doctoral Consortium
-DTSTAMP:20220313T121557Z
-DTEND:20221210T225959Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20221206T230000Z
-SUMMARY:Doctoral Consortium - ICIS 2022
-UID:2e59d385-63c3-4b5e-8264-120502cd1d7f@2e59.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Submission,ICIS
-DTSTAMP:20220313T121557Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220906T035959Z
-SUMMARY:Final Paper Deadline - ICIS 2022
-UID:a2cd0825-128b-4add-84b7-92db8f3ac879@a2cd.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:CSWIM,Conference
-DTSTAMP:20220313T121557Z
+DTSTAMP:20220318T004527Z
 DESCRIPTION:The theme of CSWIM 2022 is "Bringing Big Data Analytics\, AI\, and Human Behavioral Research Together: A New Frontier of IS Research". Adding to the mature behavioral research on IS use\, we have witnessed good progresses made in research leveraging big data analytics and more recently\, AI-related technologies and methods. There is an opportunity to bring the different approaches of research together to gain deeper and richer insights into IS use\, design and implications. On the one hand\, big data analytics allow us to gain an objective and comprehensive understanding about relationships that exist between variables of interest\, while AI-related methods such as machine learning can enable reliable and scalable discovery of nuanced patterns and regularities through intelligent and adaptive learning. On the other hand\, behavioral research methods\, such as survey and experiment\, afford the investigation and identification of the psychological mechanisms that underlie the relationships or patterns found. Thus\, by bringing the different approaches together\, the development and formulation of novel IS theories may become more viable than before\, The objective of this conference is to thus provide a venue that facilitates the exchanges and collaborations among IS scholars from diverse areas of research interests and employing different research approaches to push forward this frontier of IS research.
 DTEND:20220626T155959Z
 LOCATION:Ningbo\, China
 DTSTART:20220624T160000Z
 SUMMARY:China Summer Workshop on Information Management (CSWIM) 2022
-UID:5d26d4af-ca6f-41a0-8977-84e105de6540@5d26.org
+UID:5d20b8fa-ad6d-4bba-a6a2-9c1b0c5abc6e@5d20.org
 URL:http://2022.cswimworkshop.org/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Submission,ICIS
-DTSTAMP:20220313T121557Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220504T035959Z
-SUMMARY:Submission Deadline - ICIS 2022
-UID:48c5c290-423e-4b27-8080-1b70dfa867f3@48c5.org
-URL:https://icis2022.aisconferences.org/
+CATEGORIES:CSWIM,Conference
+DTSTAMP:20220318T004527Z
+DTEND:20220626T155959Z
+LOCATION:Ningbo\, China
+DTSTART:20220624T160000Z
+SUMMARY:Main Conference - CSWIM 2022
+UID:ada19a6c-e277-4364-af24-e06da4a19a10@ada1.org
+URL:http://2022.cswimworkshop.org/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Conference,HICSS
-DTSTAMP:20220313T121557Z
-DESCRIPTION:Since 1968\, the Hawaii International Conference on System Sciences (HICSS) has been known worldwide as the longest-standing working scientific conferences in Information Technology Management. HICSS provides a highly interactive working environment for top scholars from academia and the industry from over 60 countries to exchange ideas in various areas of information\, computer\, and system sciences. According to Microsoft Academic\, HICSS ranks the 36th in terms of citations among 4\,444 conferences in all fields worldwide.
-DTEND:20230107T095959Z
-LOCATION:Lahaina\, Hawaii
-DTSTART:20230103T100000Z
-SUMMARY:Hawaii International Conference on System Sciences (HICSS) 2022
-UID:f7d7c957-8e50-4450-9526-1129edac9b8e@f7d7.org
-URL:https://hicss.hawaii.edu/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,WITS
-DTSTAMP:20220313T121557Z
-DESCRIPTION:The 31st Annual Workshop on Information Technologies and Systems (WITS'21) will be held in a hybrid mode that has an in person meeting in Austin\, TX and allows for remote participation for presenters and attendees who are unable to travel. WITS will be held just after the International Conference on Information Systems (ICIS). The purpose of the workshop is to provide a forum for discussion and interaction among scholars with research interests in the cutting-edge issues of information technologies and systems. The theme of WITS'21 is "Fair and Inclusive Information Systems by Design"
-DTEND:20211218T055959Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211215T060000Z
-SUMMARY:Workshop on Information Technologies and Systems (WITS) 2021
-UID:f1f8c7d3-96dc-437e-b9eb-11b5fb7e1c07@f1f8.org
-URL:https://witsconf.org/wits2021-call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,WITS
-DTSTAMP:20220313T121557Z
-DTEND:20211218T055959Z
-LOCATION:Austin\, Texas\, USA
-DTSTART:20211215T060000Z
-SUMMARY:Main Conference - WITS 2022
-UID:6350ae78-e5cb-4eb6-98ad-30d591b8ef01@6350.org
-URL:https://witsconf.org/wits2021-call-for-papers/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SCECR,Notification
-DTSTAMP:20220313T121557Z
-LOCATION:Madrid\, Spain
-DTSTART:20220329T220000Z
-SUMMARY:Acceptance Notification - SCECR 2022
-UID:c849dbd4-66a1-4487-9378-e9f89132b8d5@c849.org
-URL:https://scecr.com/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Conference,POMS
-DTSTAMP:20220313T121557Z
-DTEND:20230627T045959Z
-LOCATION:Orlando\, Florida\, USA
-DTSTART:20230625T050000Z
-SUMMARY:Production and Operations Management Society (POMS) Conference 2022
-UID:8706c4ea-c52b-4224-8f34-4ee8d5e6d45f@8706.org
-URL:https://pomsmeetings.org/conf-2022/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ICIS,Notification
-DTSTAMP:20220313T121557Z
-LOCATION:Copenhagen\, Denmark
-DTSTART:20220629T220000Z
-SUMMARY:Acceptance Notification - ICIS 2022
-UID:ddacfd34-f5c5-42a8-b224-bb6b26de2c90@ddac.org
-URL:https://icis2022.aisconferences.org/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SCECR,Conference
-DTSTAMP:20220313T121557Z
+CATEGORIES:Conference,SCECR
+DTSTAMP:20220318T004527Z
 DESCRIPTION:The workshop covers diverse domains such as e-commerce\, social media\, digital content\, finance\, and telecommunications.  Methods include econometric\, machine learning\, statistical inference\, and unstructured and Big Data techniques.  The theme this year will be related to Big Data and economic impact.
 DTEND:20220622T215959Z
 LOCATION:Madrid\, Spain
 DTSTART:20220620T220000Z
 SUMMARY:Statistical Challenges in Electronic Commerce Research (SCECR) 2022
-UID:eef21ecb-949d-4751-bf72-f1b8c09c5d1b@eef2.org
+UID:80d10236-0e0e-42a0-9038-1d40e0aafecf@80d1.org
 URL:https://scecr.com/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Submission,POMS
+DTSTAMP:20220318T004527Z
+LOCATION:Orlando\, Florida\, USA
+DTSTART:20211015T050000Z
+SUMMARY:Submission Open - POMS 2022
+UID:c11512e6-f192-4ab3-b0fc-3607637f710e@c115.org
+URL:https://pomsmeetings.org/conf-2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220605T035959Z
+SUMMARY:Submission Deadline - CIST 2022
+UID:fc665de8-0457-47b8-905e-523e0a1e3aea@fc66.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CSWIM,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Ningbo\, China
+DTSTART:20220228T160000Z
+SUMMARY:Submission Open - CSWIM 2022
+UID:b25444fb-86f5-49fe-bcff-042f4ef483ef@b254.org
+URL:http://2022.cswimworkshop.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Registration,POMS
+DTSTAMP:20220318T004527Z
+LOCATION:Orlando\, Florida\, USA
+DTSTART:20220323T045959Z
+SUMMARY:Speaker Registration Deadline - POMS 2022
+UID:cfd23960-5646-45bb-84c3-964f293e858d@cfd2.org
+URL:https://pomsmeetings.org/conf-2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Conference,CHITA
+DTSTAMP:20220318T004527Z
+DESCRIPTION:The Conference on Health IT and Analytics (previously known as the Workshop on Health IT & Economics) is an annual health IT and analytics research summit\, including a doctoral consortium that each year gathers prominent scholars from more than 40 research institutes\, and leading policy and practitioner attendees in a vibrant setting to discuss opportunities and challenges in the design\, implementation and management of health information technology and analytics. Its goal is to deepen our understanding of strategy\, policy and systems fostering health IT and analytics effective use and to stimulate new ideas with both policy and business implications.
+DTEND:20220306T045959Z
+LOCATION:Washington\, D.C\, USA
+DTSTART:20220304T050000Z
+SUMMARY:Conference on Health IT and Analytics (CHITA) 2022
+UID:dcd16cbd-dc7a-451b-8101-ebc3709a37a0@dcd1.org
+URL:https://www.rhsmith.umd.edu/centers/chids/chita
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WISE,Notification
+DTSTAMP:20220318T004527Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20210923T050000Z
+SUMMARY:Acceptance Notification - WISE 2021
+UID:83b15b59-86b4-402e-9e64-46205f3946ae@83b1.org
+URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Notification
+DTSTAMP:20220318T004527Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220629T220000Z
+SUMMARY:Acceptance Notification - ICIS 2022
+UID:5cd4821d-451d-4925-bdc9-01adfbc815cf@5cd4.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Doctoral Consortium
+DTSTAMP:20220318T004527Z
+DTEND:20221210T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221206T230000Z
+SUMMARY:Doctoral Consortium - ICIS 2022
+UID:9d083adc-5766-4fe5-893c-114ccf684f10@9d08.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Workshop
+DTSTAMP:20220318T004527Z
+DTEND:20221211T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221209T230000Z
+SUMMARY:Pre-Conference Workshops - ICIS 2022
+UID:9e4e2bcb-fc99-49b0-aa82-31c6d72642e4@9e4e.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Registration,CIST
+DTSTAMP:20220318T004527Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220528T040000Z
+SUMMARY:Registration Open - CIST 2022
+UID:a414881a-06b2-49d6-8009-8c9b32451a2b@a414.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Doctoral Consortium,CHITA
+DTSTAMP:20220318T004527Z
+DTEND:20220304T045959Z
+LOCATION:Washington\, D.C\, USA
+DTSTART:20220303T050000Z
+SUMMARY:Doctoral Consortium - CHITA 2022
+UID:351c5871-7f3e-439c-b372-5e7ceea3c766@351c.org
+URL:https://www.rhsmith.umd.edu/centers/chids/chita
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WISE,Conference
+DTSTAMP:20220318T004527Z
+DESCRIPTION:WISE is the premier academic research forum for the discussion of information systems issues through the lens of economics. We expect researchers at WISE 2021 to bring forth cutting-edge research that studies how IT\, in all its forms\, addresses important business and societal questions. Modern IT-enabled phenomena have wide ranging impacts for consumers\, firms\, industries\, and markets\, making this a fascinating time to be an economics of IS researcher.\nEvery aspect of life is now guided by artificial intelligence. In parallel\, many people now trust platforms and algorithms more than their own governments and civic society. Given the ubiquity and sheer preponderance of algorithmic decision making that permeates every aspect of our lives\, we need a better understanding of the role of equity and bias-sensitive design of information systems. While there is considerable inquiry into the role bias engendered by algorithms\, this workshop actively seeks to promote research that not only illuminates the sources of algorithmic discrimination\, but also organization design and incentive systems can overcome the sources of such biases.\nPresentations at WISE address important business and societal questions with a focus on information systems. WISE welcomes new research related to the broad area of information systems\, including novel applications of machine learning and artificial intelligence\, that are supported by economic theories and methods.
+DTEND:20211218T055959Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20211216T060000Z
+SUMMARY:Workshop on Information Systems and Economics (WISE) 2021
+UID:c9c1aed6-c871-47cf-bf52-1ad40266ba2a@c9c1.org
+URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Conference
+DTSTAMP:20220318T004527Z
+DESCRIPTION:CIST 2022 calls for impactful ideas related to the theme "The Crossroads of Information Systems". CIST 2022 is currently planned as a hybrid conference. Attendees can participate in-person or remotely. Presenters should plan to attend the conference in person. However\, exceptions can be made for those who are unable to travel.
+DTEND:20221017T035959Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20221015T040000Z
+SUMMARY:Conference on Information Systems and Technology (CIST) 2022
+UID:fc27d811-51eb-4c38-854a-52ef5d754c0e@fc27.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WISE,Registration
+DTSTAMP:20220318T004527Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20211002T045959Z
+SUMMARY:Early Registration Deadline - WISE 2021
+UID:cb61cc98-6c69-46f1-9e38-156df867b9e0@cb61.org
+URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Registration,TEIS
+DTSTAMP:20220318T004527Z
+LOCATION:San Francisco\, California\, USA
+DTSTART:20220422T065959Z
+SUMMARY:Regular Registration Deadline - TEIS 2022
+UID:6cc08f74-dd1b-4686-bfc1-846801deeb42@6cc0.org
+URL:http://www.teis-workshop.org/index.php
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HICSS,Conference
+DTSTAMP:20220318T004527Z
+DESCRIPTION:Since 1968\, the Hawaii International Conference on System Sciences (HICSS) has been known worldwide as the longest-standing working scientific conferences in Information Technology Management. HICSS provides a highly interactive working environment for top scholars from academia and the industry from over 60 countries to exchange ideas in various areas of information\, computer\, and system sciences. According to Microsoft Academic\, HICSS ranks the 36th in terms of citations among 4\,444 conferences in all fields worldwide.
+DTEND:20230107T095959Z
+LOCATION:Lahaina\, Hawaii
+DTSTART:20230103T100000Z
+SUMMARY:Hawaii International Conference on System Sciences (HICSS) 2022
+UID:0d4151b6-055a-49d2-adde-91f8b68e63b3@0d41.org
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HICSS,Registration
+DTSTAMP:20220318T004527Z
+LOCATION:Lahaina\, Hawaii
+DTSTART:20221002T095959Z
+SUMMARY:Registration Deadline - HICSS 2022
+UID:16026e1b-a5db-4d04-aeba-0dc8be7e1732@1602.org
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Submission,SCECR
+DTSTAMP:20220318T004527Z
+LOCATION:Madrid\, Spain
+DTSTART:20220315T225959Z
+SUMMARY:Submission Deadline - SCECR 2022
+UID:ec6a77be-328b-404d-916e-1d61522487a4@ec6a.org
+URL:https://scecr.com/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Registration,CIST
+DTSTAMP:20220318T004527Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220821T035959Z
+SUMMARY:Early Registration Deadline - CIST 2022
+UID:03e8259d-53d1-4294-bcd3-c171a9115299@03e8.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Notification,POMS
+DTSTAMP:20220318T004527Z
+LOCATION:Orlando\, Florida\, USA
+DTSTART:20220201T050000Z
+SUMMARY:Acceptance Notification - POMS 2022
+UID:e50f3aaf-abe4-403b-bcf8-f1838443b612@e50f.org
+URL:https://pomsmeetings.org/conf-2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WITS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20211009T045959Z
+SUMMARY:Dissertation Proposal Deadline - WITS 2021
+UID:1dfebf58-9d82-44de-8e52-c1d3b7461a87@1dfe.org
+URL:https://witsconf.org/wits2021-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Conference,SCECR
+DTSTAMP:20220318T004527Z
+DTEND:20220622T215959Z
+LOCATION:Madrid\, Spain
+DTSTART:20220620T220000Z
+SUMMARY:Main Conference - SCECR 2022
+UID:4da0c784-29e2-47f4-84e0-f1fcc8cb24eb@4da0.org
+URL:https://scecr.com/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Conference,CHITA
+DTSTAMP:20220318T004527Z
+DTEND:20220306T045959Z
+LOCATION:Washington\, D.C\, USA
+DTSTART:20220304T050000Z
+SUMMARY:Main Conference - CHITA 2022
+UID:f42cd167-d46c-4012-a6ca-e3e81a556a27@f42c.org
+URL:https://www.rhsmith.umd.edu/centers/chids/chita
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220906T035959Z
+SUMMARY:Final Paper Deadline - ICIS 2022
+UID:af306d27-8788-4679-b131-5df012ab776b@af30.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CIST,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Indianapolis\, Indiana\, USA
+DTSTART:20220528T040000Z
+SUMMARY:Submission Open - CIST 2022
+UID:59ac76bb-c822-4213-8975-c91d09e1351f@59ac.org
+URL:https://sites.google.com/view/cist2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HICSS,Notification
+DTSTAMP:20220318T004527Z
+LOCATION:Lahaina\, Hawaii
+DTSTART:20220817T100000Z
+SUMMARY:Acceptance Notification - HICSS 2022
+UID:3fa0b487-9ef9-4e57-8784-396199fef7f9@3fa0.org
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HICSS,Conference
+DTSTAMP:20220318T004527Z
+DTEND:20230107T095959Z
+LOCATION:Lahaina\, Hawaii
+DTSTART:20230103T100000Z
+SUMMARY:Main Conference - HICSS 2022
+UID:dcb64886-f127-4457-ae66-2f36d1013a8c@dcb6.org
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WITS,Conference
+DTSTAMP:20220318T004527Z
+DESCRIPTION:The 31st Annual Workshop on Information Technologies and Systems (WITS'21) will be held in a hybrid mode that has an in person meeting in Austin\, TX and allows for remote participation for presenters and attendees who are unable to travel. WITS will be held just after the International Conference on Information Systems (ICIS). The purpose of the workshop is to provide a forum for discussion and interaction among scholars with research interests in the cutting-edge issues of information technologies and systems. The theme of WITS'21 is "Fair and Inclusive Information Systems by Design"
+DTEND:20211218T055959Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20211215T060000Z
+SUMMARY:Workshop on Information Technologies and Systems (WITS) 2021
+UID:1437935b-588c-4e28-888d-8f4caddfb075@1437.org
+URL:https://witsconf.org/wits2021-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HICSS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Lahaina\, Hawaii
+DTSTART:20220923T095959Z
+SUMMARY:Publication Manuscript Submission Deadline - HICSS 2022
+UID:04a80ab6-5818-423f-bc9b-2e8a414ce3d1@04a8.org
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WISE,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20210824T045959Z
+SUMMARY:Submission Deadline - WISE 2021
+UID:4de53675-7b64-4ca5-85c1-4cbac39aaf61@4de5.org
+URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Notification
+DTSTAMP:20220318T004527Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220928T220000Z
+SUMMARY:Final Acceptance Notification - ICIS 2022
+UID:655d15b4-5f01-474a-924f-48360cd5ed79@655d.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Conference
+DTSTAMP:20220318T004527Z
+DESCRIPTION:The conference theme of "Digitization for the next generation" challenges us as a community to look ahead. Although going digital is the new normal\, technological advances and fundamental problems in our societies\, such as the pandemic and climate\, change call for research that takes us to the next generation of digitization. We invite you to join us in Copenhagen for an in-person discussion on how information systems research can help us leverage opportunities for innovation\, tackling grand challenges of our societies\, and grappling with the effects of digital transformation. ICIS 2022 will bring bright minds of our community together to engage in forward thinking discussion on how to best contribute to research\, business\, and the society.
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221208T230000Z
+SUMMARY:International Conference on Information Systems (ICIS) 2022
+UID:5fd59623-2ae2-464e-839e-726a3cc3eadf@5fd5.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Registration,POMS
+DTSTAMP:20220318T004527Z
+LOCATION:Orlando\, Florida\, USA
+DTSTART:20220201T050000Z
+SUMMARY:Registration Open - POMS 2022
+UID:cb656814-b666-40dd-aed0-5f5771e3e739@cb65.org
+URL:https://pomsmeetings.org/conf-2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TEIS,Conference
+DTSTAMP:20220318T004527Z
+DTEND:20220516T065959Z
+LOCATION:San Francisco\, California\, USA
+DTSTART:20220513T070000Z
+SUMMARY:Main Conference - TEIS 2022
+UID:6afe6791-5526-4479-81f5-295d701d8253@6afe.org
+URL:http://www.teis-workshop.org/index.php
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WITS,Notification
+DTSTAMP:20220318T004527Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20211024T050000Z
+SUMMARY:Acceptance Notification - WITS 2021
+UID:619b404e-157c-43a9-a67e-0ef7d1c1d7d2@619b.org
+URL:https://witsconf.org/wits2021-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20220504T035959Z
+SUMMARY:Submission Deadline - ICIS 2022
+UID:b2b0e25b-af06-4450-943a-55198b504d46@b2b0.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Notification,SCECR
+DTSTAMP:20220318T004527Z
+LOCATION:Madrid\, Spain
+DTSTART:20220329T220000Z
+SUMMARY:Acceptance Notification - SCECR 2022
+UID:7f85775d-6bd4-4394-bd38-53cf61a2da7f@7f85.org
+URL:https://scecr.com/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HICSS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Lahaina\, Hawaii
+DTSTART:20220905T095959Z
+SUMMARY:Revised Manuscript Submission Deadline - HICSS 2022
+UID:01f18c6f-1a05-4844-a111-f0a730a7d796@01f1.org
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Conference,POMS
+DTSTAMP:20220318T004527Z
+DTEND:20230627T045959Z
+LOCATION:Orlando\, Florida\, USA
+DTSTART:20230625T050000Z
+SUMMARY:Main Conference - POMS 2022
+UID:244f7a8a-65b6-4bc6-a53b-145016233360@244f.org
+URL:https://pomsmeetings.org/conf-2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WITS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20210920T045959Z
+SUMMARY:Paper Submission Deadline - WITS 2021
+UID:e30e69c8-c8c2-41ce-9477-c68cd30d8789@e30e.org
+URL:https://witsconf.org/wits2021-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Conference
+DTSTAMP:20220318T004527Z
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221210T230000Z
+SUMMARY:Main Conference - ICIS 2022
+UID:2c32d335-3e9e-4173-80cd-9e69f820d786@2c32.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WITS,Registration
+DTSTAMP:20220318T004527Z
+DTEND:20211218T055959Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20211216T060000Z
+SUMMARY:Early Registration Deadline - WITS 2021
+UID:48254a42-c503-48bc-bf73-e5a4ecf3791f@4825.org
+URL:https://witsconf.org/wits2021-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WITS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20211126T055959Z
+SUMMARY:Final Copy Deadline - WITS 2021
+UID:6e95a483-cedb-488b-81db-9b21299ec534@6e95.org
+URL:https://witsconf.org/wits2021-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WITS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20210922T045959Z
+SUMMARY:Demo/Prototype/Poster/Teaching Innovation Submission Deadline - WITS 2021
+UID:83c20894-cabe-449c-8507-9a0a651bd7ff@83c2.org
+URL:https://witsconf.org/wits2021-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:TEIS,Conference
+DTSTAMP:20220318T004527Z
+DESCRIPTION:The TEIS workshop is designed to provide a community for researchers who use analytical modeling techniques in the area of economics of information systems. Although a number of workshops and conferences accept research based on analytical models\, these tend to be diffused with inadequate time for presentation\, discussion and Q&A. TEIS workshop complements such venues by providing a focused and intense environment for interaction among researchers to assist in the development of the field and help advance shared understanding about various aspects of modeling research. TEIS workshops have a single track with one hour per paper so everyone can participate substantively in the discussion.
+DTEND:20220516T065959Z
+LOCATION:San Francisco\, California\, USA
+DTSTART:20220513T070000Z
+SUMMARY:Theory in Economics of Information Systems (TEIS) 2022
+UID:d672dee1-99d5-489b-b75b-db43f4586036@d672.org
+URL:http://www.teis-workshop.org/index.php
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CSWIM,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Ningbo\, China
+DTSTART:20220420T155959Z
+SUMMARY:Submission Deadline - CSWIM 2022
+UID:a17bd04d-7f17-45bc-8063-0f101a825666@a17b.org
+URL:http://2022.cswimworkshop.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HICSS,Submission
+DTSTAMP:20220318T004527Z
+LOCATION:Lahaina\, Hawaii
+DTSTART:20220415T100000Z
+SUMMARY:Submission Open - HICSS 2022
+UID:33c83db5-451d-4112-8957-bb424cdd6f81@33c8.org
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ICIS,Workshop
+DTSTAMP:20220318T004527Z
+DTEND:20221214T225959Z
+LOCATION:Copenhagen\, Denmark
+DTSTART:20221213T230000Z
+SUMMARY:Post-Conference Workshops - ICIS 2022
+UID:e0577122-6dd2-4fb1-bd42-4bf2544a430d@e057.org
+URL:https://icis2022.aisconferences.org/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Conference,POMS
+DTSTAMP:20220318T004527Z
+DTEND:20230627T045959Z
+LOCATION:Orlando\, Florida\, USA
+DTSTART:20230625T050000Z
+SUMMARY:Production and Operations Management Society (POMS) Conference 2022
+UID:b3aa15a9-ba0c-4aab-8705-3f8a39df129c@b3aa.org
+URL:https://pomsmeetings.org/conf-2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Submission,POMS
+DTSTAMP:20220318T004527Z
+LOCATION:Orlando\, Florida\, USA
+DTSTART:20211216T045959Z
+SUMMARY:Submission Deadline - POMS 2022
+UID:3f28c50b-699c-458c-a55b-7034cec62415@3f28.org
+URL:https://pomsmeetings.org/conf-2022/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:WISE,Conference
+DTSTAMP:20220318T004527Z
+DTEND:20211218T055959Z
+LOCATION:Austin\, Texas\, USA
+DTSTART:20211216T060000Z
+SUMMARY:Main Conference - WISE 2022
+UID:347d4a0f-8fbd-4de3-a9df-7a15840c183c@347d.org
+URL:https://events.mccombs.utexas.edu/event/fde3cc88-bc5a-4853-8216-245489b23885/summary
 END:VEVENT
 END:VCALENDAR
