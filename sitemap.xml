@@ -1,53 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/intro/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/intro/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/jobs/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/journals/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/journals/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/references/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/references/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/conferences/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/conferences/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/conferences/calendar/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/conferences/calendar/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/jobs/job-documents/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/research/analytical/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/jobs/job-interviews/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/research/empirical/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/jobs/job-positions/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://liu-yihong.github.io/MISReadingList/research/technical/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://blog.yihong-liu.com/MISReadingList/research/analytical/</loc>
+         <lastmod>2023-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://blog.yihong-liu.com/MISReadingList/research/empirical/</loc>
+         <lastmod>2023-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://blog.yihong-liu.com/MISReadingList/research/technical/</loc>
+         <lastmod>2023-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
