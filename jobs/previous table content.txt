@@ -1,0 +1,23 @@
+=== "🔒2024 - 2025"
+
+    <iframe class="airtable-embed" src="https://airtable.com/embed/appAGmoafes6vPLqp/shrlqLhTiOYy9BUTF?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+    
+    You find new job position and want to share?
+
+    Feel free to submit the job information through [this link (24 - 25)](https://airtable.com/appAGmoafes6vPLqp/pagEGe2lO3x5z9KDI/form)!
+
+    Please note that jobs starting at August 2024 are excluded from this list.
+    
+    This table is the same as the one in [IS Jobs](https://isjobs.xyz/Database-24-25).
+    
+=== "🔒2023 - 2024"
+
+    <iframe class="airtable-embed" src="https://airtable.com/embed/appyT2AUb4qWfC44W/shrYn086xzhZwpFlm?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+        
+    You find new job position and want to share?
+
+    Feel free to submit the job information through [this link (23 - 24)](https://airtable.com/shrpG3VSdIOC8KzDJ)!
+
+    Please note that jobs starting at August 2023 are excluded from this list.
+
+    This table is the same as the one in [IS Jobs](https://isjobs.xyz/Database-23-24).
